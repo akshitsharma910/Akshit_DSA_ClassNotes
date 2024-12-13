@@ -22,3 +22,6 @@ public class primeNo {
         sc.close();
     }
 }
+
+
+
